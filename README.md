@@ -1,4 +1,4 @@
-# 📊 Data Visualization with Power BI | Análisis de Datos con Power BI
+# 📊 Data Visualization with Power BI - Análisis de Datos con Power BI
 
 Proyecto de análisis de datos enfocado en la exploración, limpieza y transformación de un dataset de marketing para su posterior visualización en Power BI.  
 Se aplicaron técnicas de análisis exploratorio y preprocesamiento en Python para mejorar la calidad de los datos y generar insights relevantes sobre el comportamiento de los clientes.
